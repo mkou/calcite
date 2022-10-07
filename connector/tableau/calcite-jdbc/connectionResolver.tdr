@@ -26,7 +26,6 @@
       <required-attributes>
         <attribute-list>
           <attr>server</attr>
-          <attr>port</attr>
           <attr>authentication</attr>
           <attr>username</attr>
         </attribute-list>
